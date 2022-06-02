@@ -1,5 +1,1 @@
-YES
-NO
-YES
-YES
-NO
+Enter n: Enter array s[]: max alpha: 1
