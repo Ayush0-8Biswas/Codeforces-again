@@ -1,1 +1,1 @@
-Enter n: Enter array s[]: max alpha: 1
+22 1
